@@ -3,9 +3,12 @@ Description :
 
 Spécificités techniques :
 >Base de données : mongodb
+
 >back (webservice) : nodeJs
+
 >client : Android (java)
 
 Prérequis :
 >Android 11+
+
 >Connectivite internet
