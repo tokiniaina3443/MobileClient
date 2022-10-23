@@ -12,3 +12,7 @@ Prérequis :
 >Android 11+
 
 >Connectivite internet
+
+Login for test :
+>test@gmail.com/test
+>or you can just create a new user
